@@ -1,0 +1,10 @@
+{
+  "categories": [
+    { "name": "Food", "subcategories": ["Groceries", "Dining Out", "Coffee"] },
+    { "name": "Transport", "subcategories": ["Fuel", "Public Transit", "Ride Share"] },
+    { "name": "Utilities", "subcategories": ["Electricity", "Internet", "Water"] },
+    { "name": "Entertainment", "subcategories": ["Movies", "Games", "Subscriptions"] },
+    { "name": "Health", "subcategories": ["Pharmacy", "Doctor", "Gym"] },
+    { "name": "Other", "subcategories": [] }
+  ]
+}
